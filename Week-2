@@ -1,0 +1,42 @@
+1.        Identify two embedded systems that are sold on the market today and analyze their interfaces.
+
+>>>       DIGITAL CAMERA
+          A digital camera is very good example of Embedded system.
+          Cameras that we use today are smart and have a lot of features that were not present in early cameras all because of embedded system used in them.
+          A digital camera has basically three functions, to capture image which we call data, to store image data, and to represent this data.
+          Today images are stored and processed in form of digital data in bits.
+          
+          HOME SECURITY SYSTEMS
+          Home security systems has another good example of Embedded systems.
+          These systems have several features just as checking for fire or gas leakages, and detecting if someone suspicious tries to enter the house.
+          If family members are not present in home then still they can monitor the activities going on in their house.
+          
+          
+2.        Describe all inputs to each system and outputs from each system.
+
+>>>       DIGITAL CAMERA :
+
+                 INPUTS: Light senors (Photoresistor) , Buttons
+                 OUTPUTS: LCD display, Light Emitting Diode( LED's) or other illuminating devices
+
+          HOME SECURITY SYSTEMS :
+
+                INPUTS: Keypads, Gas sensors, Smoke sensors, IR sensors, Temperature sensors, Glass break sensors, motion detectors
+                OUTPUTS: LCD display, Siren and strobe lights.
+
+
+3.       Classify the inputs and outputs based on their mode of interaction:
+            -Visual - describing data carried by visible light
+            -Audio - describing data carried by sound
+            -Tactile - describing data carried by touch
+            -Electronic - describing data encoded in electrical signals
+
+>>>      DIGITAL CAMERA
+         A Digital camera takes a photo by using sensors to capture the lights that comes in through the lens.
+         It then converts the light into binary numbers that are recorded on backing storage.
+         This digital version of the photograph can then be displayed on the small screen that is set into the camera.
+         HOME SECURITY SYSTEMS
+         Your alarm system can be activated or deactivated using keypads. It also allows you to perform diagnostic tests or customize the alarm settings.
+         Keypads is included in such systems for entering passwords And output is received from sirens/ alarms or some LCD display.
+         These systems have several features just as checking for fire and gas leakages, and detecting  if someone suspicious tries to enter the house.
+
