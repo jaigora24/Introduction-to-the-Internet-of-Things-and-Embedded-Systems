@@ -1,0 +1,33 @@
+1.     Research two microcontrollers and provide information about them from their datasheets. There are several microcontroller manufacturers
+       that you can investigate including Atmel, Microchip, Freescale, TI, etc. For each microcontroller, report the following information.
+       (Be sure to include a link to an online reference where you found this information.)  
+       Clock frequency
+       Bitwidth of the datapath
+       Size of Flash memory
+       Number of pins
+       Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?
+       
+
+>>>        ATmega32 - RenesasRX
+                Clock Frequency : 1 MIPS - 240 MHz
+                Bitwidth of the datapath : 8 bit - 32 bit
+                Size of Flash memory : 32 KB - 512 KB
+                Number of pins : 44 - 64
+                Analog to Digital converter : 10 bit ADC - 12 bit ADC
+         
+         Link for ATmega32 :  https://www.microchip.com/wwwproducts/en/ATmega32  
+         Link for RenesasRX :  https://www.renesas.com/eu/en/products/microcontrollers-microprocessors/rx/rx700/rx71m.html
+         
+
+
+2.     Research the Arduino and Raspberry Pi platforms. Indicate if there are operating systems which can be used on each platform. If there
+       are, list those operating systems.State whether the operating systems are open source or not.
+       
+
+>>>      1.        Arduino : There is no Operating system which can be used on this platform.
+                   Raspberry Pi  : There are many Operating system which can be used on this platform suchas Raspbian, OSMS (OpenSourceMediaCentre),
+                                   RISC OS, Windows IoT Core, Lakka etc.
+
+         2.        Arduino : No Operating system
+                   Raspberry Pi : Yes, Operating system are open source.
+
